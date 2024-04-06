@@ -44,6 +44,10 @@ Asegúrate de configurar estas variables de entorno adecuadamente antes de ejecu
 - `npm run dev`: Inicia el servidor en modo de desarrollo.
 - `npm test`: Ejecuta las pruebas unitarias.
 
+## Documentación de la API
+
+La documentación de la API está disponible en [este enlace](https://documenter.getpostman.com/view/24259639/2sA35MxJLi), generado con Postman.
+
 ## Repositorio del Front End
 
 Puedes encontrar el repositorio del front end de la aplicación Disruptive en [este enlace](https://github.com/DavidPerezG/disruptive-front-end/).
